@@ -14,6 +14,6 @@ Just clone the file or the repo and you're free to change the boundaries, the st
 - Orange - the path
 
 
-| ![gif file](ASPP_YUP.gif) |
+| ![gif file](https://github.com/AbishekAnbarasan/Path-planning-A-star/blob/master/ASPP_Yup.gif) |
 |:--:|
 | *Path planning* |
